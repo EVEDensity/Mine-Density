@@ -2,13 +2,13 @@
   <h1 style="font-size: 3em; color: #6366f1; margin-bottom: 0.2em;">深渊园丁 · Minedensity</h1>
 </div>
 
+<img width="2560" height="1272" alt="image" src="https://github.com/user-attachments/assets/b724c06b-19ca-449a-958c-483c903f2ea0" />
 > 叙事驱动型手绘交互艺术个人网站。
 
 在浏览器里，种植一朵花，看太阳沉入地平线，往深渊的更深处走一走。
 这座数字花园会随着你的停留慢慢生长。
 
 🌐 线上地址：[minedensity.top](https://minedensity.top)
-<img width="2560" height="1272" alt="image" src="https://github.com/user-attachments/assets/b724c06b-19ca-449a-958c-483c903f2ea0" />
 
 ---
 
