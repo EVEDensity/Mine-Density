@@ -8,6 +8,7 @@
 这座数字花园会随着你的停留慢慢生长。
 
 🌐 线上地址：[minedensity.top](https://minedensity.top)
+<img width="2560" height="1272" alt="image" src="https://github.com/user-attachments/assets/b724c06b-19ca-449a-958c-483c903f2ea0" />
 
 ---
 
